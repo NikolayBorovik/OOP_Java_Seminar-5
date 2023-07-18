@@ -16,4 +16,6 @@ public interface GBRepository<E, I> {
     Optional<E> findById(I id);
     Optional<E> update(I id, E e);
     Optional<User> delete(I id);
+
+
 }

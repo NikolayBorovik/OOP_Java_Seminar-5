@@ -27,7 +27,7 @@ public class UserView {
                     com = Commands.valueOf(command);
                     done = true;
                 } catch (IllegalArgumentException ex){
-                    System.out.println("Wrong entry");
+                    System.out.println("Неверный ввод");
                     command = prompt("Введите команду: ");
                 }
             }

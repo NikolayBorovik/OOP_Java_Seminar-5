@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/gb-notebook/src/notebook/dao/Operation.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/gb-notebook/src/notebook/dao/impl/FileOperation.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/gb-notebook/src/notebook/mapper/Mapper.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/gb-notebook/src/notebook/model/User.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/gb-notebook/src/notebook/repository/GBRepository.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/gb-notebook/src/notebook/repository/Operation.java" charset="windows-1251" />
